@@ -1,5 +1,9 @@
 # 💰 Finance Flow (AI Improved Version)
 
+Finance Flow Final 
+Live Streamlit App:
+https://finance-flow-final-l3qtlvzknjwkfmexusqfbb.streamlit.app/  
+
 ## Description
 
 Finance Flow is a simple web app that helps users understand their monthly finances. The app allows users to enter income, expenses, and debt to calculate their remaining balance.
@@ -32,6 +36,3 @@ python3 -m streamlit run after_app.py
 
 - reflection.md → Explanation of improvements
 
-Finance Flow Final 
-Live Streamlit App:
-https://finance-flow-final-l3qtlvzknjwkfmexusqfbb.streamlit.app/ 
