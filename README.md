@@ -31,3 +31,7 @@ python3 -m streamlit run after_app.py
 - after_app.py → Improved version using AI
 
 - reflection.md → Explanation of improvements
+
+Finance Flow Final 
+Live Streamlit App:
+https://finance-flow-final-l3qtlvzknjwkfmexusqfbb.streamlit.app/ 
